@@ -4,7 +4,7 @@ I am a data scientist passionate about the environment and sustainable developme
 
 ## 🔧 Technologies and Tools
 - **Languages**: Python, SQL
-- **Tools**: Metabase, Jupyter Notebook, Pandas, Airflow
+- **Tools**: Metabase, Jupyter Notebook, Pandas, Airflow, Flask
 - **Platforms**: Google BigQuery, Google Cloud Platform (GCP)
 
 
@@ -17,7 +17,7 @@ I am continuously improving my skills and learning new technologies. My areas of
 - **Data Analysis**: Extracting and analyzing data to gain valuable insights.
 - **Machine Learning**: Applying predictive models to solve complex problems.
 - **Sustainability**: Using data to promote sustainable practices and assess environmental impact.
-- **Workflow Orchestration**: Using Airflow to automate and manage data pipelines.
+- **Workflow Orchestration**: Utilizing Airflow to automate and manage data pipelines, as well as Flask for building web services for data loading processes.
 - **Big Data**: Working with Google BigQuery and GCP to handle and analyze large volumes of data.
 
 ## 📫 Contact
